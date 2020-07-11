@@ -24,16 +24,16 @@
     margin: -2px
   }
 
-  #chickenMenu{
+  .chickenMenu{
     background-color: palevioletred;
   }
 
-  #beefMenu{
+  .beefMenu{
     background-color: red;
     color:white;
   }
 
-  #sushiMenu{
+  .sushiMenu{
     background-color: yellow;
   }
 
